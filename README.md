@@ -53,15 +53,20 @@ Branding, UI/UX, web design, and visual systems created through my independent d
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [SpotLoop](https://github.com/jacksonmmaynard-oss/SpotLoop)
+
+A Spicetify extension for selecting, saving, and repeatedly playing any section of a Spotify track.
+
+**JavaScript • Spicetify • Spotify Desktop**
+
+</td>
+</tr>
 </table>
 
 ## Currently building
-
-### SpotLoop
-
-A Spicetify extension for selecting and replaying any section of a Spotify track. Planned features include A-B loop markers, saved song sections, keyboard shortcuts, and a quick “loop the last 15 seconds” control.
-
-**JavaScript • Spicetify • Spotify Desktop**
 
 ### Clean Core
 
